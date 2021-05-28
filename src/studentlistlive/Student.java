@@ -4,7 +4,7 @@ package studentlistlive;
 /**
  * This class models Students. Students have a name and
  * a studentID.
- * @author Liz Dancy, 2021
+ * @author Liz Dancy, 2021 on May Week2
  */
 public class Student 
 {
